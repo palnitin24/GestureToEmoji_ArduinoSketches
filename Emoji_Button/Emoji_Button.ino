@@ -1,4 +1,5 @@
-// Part2
+// Modified by Nitin Pal
+// This code is compatible with windows feel free to use and modify the below code.
 
 #include <Arduino_BMI270_BMM150.h>
 #include <PluggableUSBHID.h>
